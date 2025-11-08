@@ -1,0 +1,11 @@
+.venv
+
+dataset_v3
+sample_submission.csv
+submission.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+models/
